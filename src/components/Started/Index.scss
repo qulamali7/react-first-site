@@ -1,0 +1,12 @@
+#started{
+    background-color: #212529;
+    .started-content{
+        width: 80%;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        min-height: 70vh;
+        gap: 20px;
+    }
+}

@@ -1,0 +1,29 @@
+#header{
+    background-color: #212529;
+    padding: 20px 0px ;
+    .header-content{
+        width: 80%;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        h2{
+            font-size: 20px;
+            color: #fff;
+        }
+        nav{
+            ul{
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                gap: 30px;
+                li{
+                    a{
+                        font-size: 16px;
+                        color: #ffffff8c;
+                    }
+                }
+            }
+        }
+    }
+}
